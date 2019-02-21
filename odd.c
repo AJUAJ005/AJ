@@ -12,4 +12,4 @@ else
 printf("Odd");
 }
 return 0;
-}o
+}
